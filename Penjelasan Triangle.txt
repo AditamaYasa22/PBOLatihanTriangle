@@ -1,0 +1,13 @@
+Perbedaan antara Segitiga ABC, BCD, dan CDE.
+1. Segitiga ABC adalah Segitiga yang dibuat dari sebuah objek dari kelas RightTriangle dengan nama ABC
+yang dimana mendeklarasikan objek segitiga siku-siku dengan kelas RightTriangle dan segitiga nya 
+mempunyai alas 3.0 dan tinggi 4.0.
+
+2. Segitiga BCD adalah Segitiga yang dibuat dari sebuah objek dari kelas Triangle dengan nama BCD, 
+tetapi menggunakan konstruktor kelas RightTriangle, dan sama juga seperti Segitiga ABC, 
+yang dimana segitiga nya mempunyai alas 3.0 dan tinggi 4.0.
+
+3. Segitiga CDE adalah Segitiga yang dibuat dari sebuah objek dari kelas Triangle dengan nama CDE
+yang mendeklarasikan objek segitiga umum dengan kelas Triangle, yang dimana kelas ini adalah kelas umum 
+untuk semua jenis Segitiga, dan Segitiga ini mendefiniskan tiga sisi segitiga, yang dimana segitiga nya
+mempunyai panjang sisi1 3.0, sisi2 4.0, dan sisi3 5.0.
